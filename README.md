@@ -81,14 +81,13 @@ Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine su
 # Viewing Code
 In order to view the code, Visual Studio 2010 or higher, is recommended, but any IDE that can open .sln works. You will also need Unity support for Visual Studio, and Unity 2017.3x. However, if you do not have a program that can open .sln files, the most important files are:
 
-manage.cs
+[manage.cs](https://github.com/3honi/CascadeFallsLibrary/blob/master/FBLA%20Project/FBLA%20Project/Assets/Books/manage.cs)
 
-books.cs
+[books.cs](https://github.com/3honi/CascadeFallsLibrary/blob/master/FBLA%20Project/FBLA%20Project/Assets/Books/books.cs)
 
-book.cs
+[book.cs](https://github.com/3honi/CascadeFallsLibrary/blob/master/FBLA%20Project/FBLA%20Project/Assets/Books/book.cs)
 
-login.cs
-
+[login.cs](https://github.com/3honi/CascadeFallsLibrary/blob/master/FBLA%20Project/FBLA%20Project/Assets/Login/login.cs)
 
 # Building Code
 In order to build for android, ios, or other platforms, the Unity build package for that system is required.
