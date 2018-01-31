@@ -13,7 +13,7 @@ The library application for the school "Cascade Falls" has the ability to allow 
 
 [Library Map](https://github.com/3honi/CascadeFallsLibrary#library-map)
 
-[Account Registration and Login](Account Registration & Login)
+[Account Registration and Login](https://github.com/3honi/CascadeFallsLibrary#account-registration--login)
 
 [Social Media in the School Library](https://github.com/3honi/CascadeFallsLibrary#social-media-in-the-school-library)
 
