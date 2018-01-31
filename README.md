@@ -44,3 +44,25 @@ The social media buttons below will redirect students and teachers to a social m
 If there is a bug within the application, users have an easy time reporting it. The bug report button is on the bottom-right corner of the application
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408099240368275466/adasd.png?width=234&height=468)
+
+# Building, C#, and Multiplatform Support
+Cascade Falls Library is coded in C# using the Unity Engine. This means multiplatform support is easy, since Unity provides cross-platform building.
+
+# Code Commenting
+The coding within the application is done 100% via C#, is easy to understand, and is commented to much detail.
+
+```c#
+        for (int x = 0; x < transform.childCount; x++) //Has to clear all of the books first before placing a new list
+        {
+            Destroy(transform.GetChild(x).gameObject);
+        }
+        for (int x = 0; x < bookinfo.Count-1; x++) //Takes information from the php file
+        {
+            string temp = (bookinfo[x].ToString());
+            string a = temp.Split('`')[4];
+            if (a == "1") //If the book is still available
+            {
+                CreateBookObject(x); //Add it to the list
+            }
+        }
+```
