@@ -4,17 +4,17 @@ The library application for Android for the school "Cascade Falls". The applicat
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408091124389904394/Screenshot_20180130-214602.png?width=234&height=468)
 
 # Browsing Books
-The browsing page allows users to see what books are available. Which allows them to check them out or place a hold on them. Although there are not many books in the application, further books can be easily added when using the app beyond demonstration.
+The Browsing page allows users to see what books are available. Which allows them to check them out or place a hold on them. Although there are not many books in the application, further books can be easily added when using the app beyond demonstration.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408091123060572160/Screenshot_20180130-214646.png?width=234&height=468)
 
 # Check Book Status and Due Dates
-The manage page allows users to see which books they have on hold or checked out. It also allows the users to see a total number of books they have held/checked out and how many of them are due, alongside the due dates.
+The Manage page allows users to see which books they have on hold or checked out. It also allows the users to see a total number of books they have held/checked out and how many of them are due, alongside the due dates.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408095379935199234/Screenshot_20180130-220515.png?width=234&height=468)
 
 # Library Map
-The map page allows users to see where each book may be as well as other remedies they may need.
+The Map page allows users to see where each book may be as well as other remedies they may need.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408091122447941633/Screenshot_20180130-214657.png?width=234&height=468)
 
@@ -46,7 +46,7 @@ If there is a bug in the application, users have an easy time reporting it. The 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408099240368275466/adasd.png?width=234&height=468)
 
 # Building, C#, and Multiplatform Support
-Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine supports iOS, Windows, and much more. Which means the app can be build for iPhones, Windows, etc. Only a pre-build apk file is provided for demonstration purposes.
+Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine supports iOS, Windows, and much more. Which means the app can be built for iPhones, Windows, etc. Only a pre-build apk file is provided for demonstration purposes.
 
 # Code Commenting
 The coding within the application is done 100% via C#, is easy to understand, and is commented in much detail.
