@@ -12,3 +12,8 @@ The browsing page allows users to see what books are available and allow them to
 The manage page allows users to see which books they have on hold, or checked out. It also allows the users to see a total number of books they have held/checked out and how many of them are due, alongside the due dates.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408095379935199234/Screenshot_20180130-220515.png?width=234&height=468)
+
+# Library Map
+The map page allows users to see where each book may be as well as other remedies they may need.
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408091122447941633/Screenshot_20180130-214657.png?width=234&height=468)
