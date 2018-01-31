@@ -6,16 +6,27 @@ The library application for the school "Cascade Falls" has the ability to allow 
 # Table of Contents:
 
 [Running the App](https://github.com/3honi/CascadeFallsLibrary#running-the-app)
+
 [Browsing Books](https://github.com/3honi/CascadeFallsLibrary#browsing-books)
+
 [Check Book Status and Due Dates](https://github.com/3honi/CascadeFallsLibrary#check-book-status-and-due-dates)
+
 [Library Map](https://github.com/3honi/CascadeFallsLibrary#library-map)
+
 [Account Registration and Login](Account Registration & Login)
+
 [Social Media in the School Library](https://github.com/3honi/CascadeFallsLibrary#social-media-in-the-school-library)
+
 [Bug Reporting](https://github.com/3honi/CascadeFallsLibrary#bug-reporting)
+
 [C# and Multiplatform Support](https://github.com/3honi/CascadeFallsLibrary#c-and-multiplatform-support)
+
 [Viewing Code](https://github.com/3honi/CascadeFallsLibrary#viewing-code)
+
 [Building Code](https://github.com/3honi/CascadeFallsLibrary#building-code)
+
 [Code Commenting](https://github.com/3honi/CascadeFallsLibrary#code-commenting)
+
 
 # Running the App
 To use the prebuilt apk, download the apk on an android device. Make sure that "Allow applications from foreign sources" is enabled and simply install it. Once installed, the application should open. To install on iPhone, download Xcode from your computer and transfer it through there.
