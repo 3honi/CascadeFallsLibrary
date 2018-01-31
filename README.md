@@ -40,3 +40,7 @@ The social media buttons below will redirect students and teachers to a social m
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408097081769590808/goodreads.png?width=234&height=468)
 
+# Bug Reporting
+If there is a bug within the application, users have an easy time reporting it. The bug report button is on the bottom-right corner of the application
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408099240368275466/adasd.png?width=234&height=468)
