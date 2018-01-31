@@ -3,6 +3,20 @@ The library application for the school "Cascade Falls" has the ability to allow 
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408112121998737408/images.png?width=234&height=468)
 
+# Table of Contents:
+
+[Running the App](https://github.com/3honi/CascadeFallsLibrary#running-the-app)
+[Browsing Books](https://github.com/3honi/CascadeFallsLibrary#browsing-books)
+[Check Book Status and Due Dates](https://github.com/3honi/CascadeFallsLibrary#check-book-status-and-due-dates)
+[Library Map](https://github.com/3honi/CascadeFallsLibrary#library-map)
+[Account Registration and Login](Account Registration & Login)
+[Social Media in the School Library](https://github.com/3honi/CascadeFallsLibrary#social-media-in-the-school-library)
+[Bug Reporting](https://github.com/3honi/CascadeFallsLibrary#bug-reporting)
+[C# and Multiplatform Support](https://github.com/3honi/CascadeFallsLibrary#c-and-multiplatform-support)
+[Viewing Code](https://github.com/3honi/CascadeFallsLibrary#viewing-code)
+[Building Code](https://github.com/3honi/CascadeFallsLibrary#building-code)
+[Code Commenting](https://github.com/3honi/CascadeFallsLibrary#code-commenting)
+
 # Running the App
 To use the prebuilt apk, download the apk on an android device. Make sure that "Allow applications from foreign sources" is enabled and simply install it. Once installed, the application should open. To install on iPhone, download Xcode from your computer and transfer it through there.
 
@@ -51,7 +65,7 @@ If there is a bug in the application, users have an easy time reporting it. The 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408099240368275466/adasd.png?width=234&height=468)
 
 # C# and Multiplatform Support
-Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine supports many playforms including  iOS, Windows, and many more; this also means that the app can be built for iPhones, Windows, and many other devices. Only a pre-build apk file is provided for demonstration purposes.
+Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine supports many platforms including  iOS, Windows, and many more; this also means that the app can be built for iPhones, Windows, and many other devices. Only a pre-build apk file is provided for demonstration purposes.
 
 # Viewing Code
 In order to view the code, Visual Studio 2010 or higher, is recommended, but any IDE that can open .sln works. You will also need Unity support for Visual Studio, and Unity 2017.3x. However, if you do not have a program that can open .sln files, the most important files are:
