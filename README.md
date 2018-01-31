@@ -46,7 +46,7 @@ If there is a bug in the application, users have an easy time reporting it. The 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408099240368275466/adasd.png?width=234&height=468)
 
 # Building, C#, and Multiplatform Support
-Cascade Falls Library is coded in C# using the Unity Engine. This means multiplatform support is easy since Unity provides cross-platform building.
+Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine supports iOS, Windows, and much more. Which means the app can be build for iPhones, Windows, etc. Only a pre-build apk file is provided for demonstration purposes.
 
 # Code Commenting
 The coding within the application is done 100% via C#, is easy to understand, and is commented in much detail.
