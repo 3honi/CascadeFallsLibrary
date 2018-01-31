@@ -34,7 +34,7 @@ To use the prebuilt apk, download the apk on an android device. Make sure that "
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408091124389904394/Screenshot_20180130-214602.png?width=234&height=468)
 
 # Browsing Books
-The Browsing page allows users to see what books are available, which allows them to either check them out or place a hold on them. Although there aren't many books in the application, further books can be easily added when using the app beyond demonstration.
+The Browsing page allows users to see what books are available, which allows them to either check them out or place a hold on them. Although there aren't many books in the application, more books can be easily added when using the app beyond demonstration.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408091123060572160/Screenshot_20180130-214646.png?width=234&height=468)
 
