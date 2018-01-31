@@ -1,5 +1,10 @@
 # Cascade Falls Library
-The library application for the school "Cascade Falls" has the ability to allow students and teachers alike to log in, hold, and check out books. As well as see which books are due at what time, and to be able to find those books with a map. An internet connection is required to use the app.
+The library application for the school "Cascade Falls" has the ability to allow students and teachers alike to log in, hold, and check out books. As well as see which books are due at what time, and to be able to find those books with a map. 
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408112121998737408/images.png?width=234&height=468)
+
+# Running the App
+To use the prebuilt apk, download the apk on an android device. Make sure that "Allow applications from foreign sources" is enabled and simply install it. Once installed, the application should open. To install on iPhone, download Xcode from your computer and transfer it through there.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408091124389904394/Screenshot_20180130-214602.png?width=234&height=468)
 
@@ -47,6 +52,12 @@ If there is a bug in the application, users have an easy time reporting it. The 
 
 # Building, C#, and Multiplatform Support
 Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine supports iOS, Windows, and much more. Which means the app can be built for iPhones, Windows, etc. Only a pre-build apk file is provided for demonstration purposes.
+
+# Viewing Code
+In order to view the code, Visual Studio 2010 or higher is required. As well as Unity support for Visual Studio, and Unity 2017.3x.
+
+# Building Code
+In order to build, android, and iOS support for visual studio is required. As well as the iOS, Android, or any other platform build packages for Unity.
 
 # Code Commenting
 The coding within the application is done 100% via C#, is easy to understand, and is commented in much detail.
