@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Register/register.unity
+  isLoaded: 1
+  isActive: 1
