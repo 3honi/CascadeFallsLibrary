@@ -18,9 +18,25 @@ The map page allows users to see where each book may be as well as other remedie
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408091122447941633/Screenshot_20180130-214657.png?width=234&height=468)
 
+# Account Registration & Login
+The library requires its users to have an account in order to check out and hold books. By providing details, teachers and librarians can know which student has which book, making it easier to manage.
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408091124389904394/Screenshot_20180130-214602.png?width=234&height=468)
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408093925748899840/Screenshot_20180130-215916.png?width=234&height=468)
+
+There are various errors that may occur. If a user who is register an account does not provide a username or password, the application will not allow registration. Same applies if that user chooses a username which was already taken. If in login and the credentials are incorrect, the application will also reject the login.
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408093925182799873/Screenshot_20180130-215918.png?width=234&height=468)
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408093925178605568/Screenshot_20180130-215929.png?width=234&height=468)
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408091122447941632/Screenshot_20180130-214623.png?width=234&height=468)
+
 # Social Media in the School Library
 The social media buttons below will redirect students and teachers to a social media website, where they can share their discoveries and see what their peers are reading.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408097053676273667/twitter.png?width=234&height=468)
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408097081769590808/goodreads.png?width=234&height=468)
+
