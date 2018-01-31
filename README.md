@@ -54,7 +54,12 @@ If there is a bug in the application, users have an easy time reporting it. The 
 Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine supports iOS, Windows, and much more. Which means the app can be built for iPhones, Windows, etc. Only a pre-build apk file is provided for demonstration purposes.
 
 # Viewing Code
-In order to view the code, Visual Studio 2010 or higher is required. As well as Unity support for Visual Studio, and Unity 2017.3x.
+In order to view the code, Visual Studio 2010 or higher, is recommended, but any IDE that can open .sln works. You will also need Unity support for Visual Studio, and Unity 2017.3x. However, if you do not have a program that can open .sln files, the most important files are:
+
+manage.cs
+books.cs
+book.cs
+login.cs
 
 # Building Code
 In order to build, android, and iOS support for visual studio is required. As well as the iOS, Android, or any other platform build packages for Unity.
