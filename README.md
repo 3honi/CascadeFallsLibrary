@@ -62,7 +62,7 @@ book.cs
 login.cs
 
 # Building Code
-In order to build, android, and iOS support for visual studio is required. As well as the iOS, Android, or any other platform build packages for Unity.
+In order to build for android, ios, or other platforms, the Unity build package for that system is required.
 
 # Code Commenting
 The coding within the application is done 100% via C#, is easy to understand, and is commented in much detail.
