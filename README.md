@@ -50,7 +50,7 @@ If there is a bug in the application, users have an easy time reporting it. The 
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408099240368275466/adasd.png?width=234&height=468)
 
-# Building, C#, and Multiplatform Support
+# C# and Multiplatform Support
 Cascade Falls Library is coded in C# using the Unity Engine. The Unity Engine supports iOS, Windows, and much more. Which means the app can be built for iPhones, Windows, etc. Only a pre-build apk file is provided for demonstration purposes.
 
 # Viewing Code
