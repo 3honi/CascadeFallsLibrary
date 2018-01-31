@@ -17,3 +17,10 @@ The manage page allows users to see which books they have on hold, or checked ou
 The map page allows users to see where each book may be as well as other remedies they may need.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408091122447941633/Screenshot_20180130-214657.png?width=234&height=468)
+
+# Social Media in the School Library
+The social media buttons below will redirect students and teachers to a social media website, where they can share their discoveries and see what their peers are reading.
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408097053676273667/twitter.png?width=234&height=468)
+
+![alt text](https://media.discordapp.net/attachments/380444132989992963/408097081769590808/goodreads.png?width=234&height=468)
