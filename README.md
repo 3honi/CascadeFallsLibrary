@@ -25,7 +25,7 @@ The library requires its users to have an account in order to check out and hold
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408093925748899840/Screenshot_20180130-215916.png?width=234&height=468)
 
-There are various errors that may occur. If a user who is register an account does not provide a username or password, the application will not allow registration. Same applies if that user chooses a username which was already taken. If in login and the credentials are incorrect, the application will also reject the login.
+There are various errors that may occur. If a user who is registering an account does not provide a username or password, the application will not allow registration. Same applies if the user chooses a username which was already taken. If the login credentials are incorrect, the application will also reject the login.
 
 ![alt text](https://media.discordapp.net/attachments/380444132989992963/408093925182799873/Screenshot_20180130-215918.png?width=234&height=468)
 
